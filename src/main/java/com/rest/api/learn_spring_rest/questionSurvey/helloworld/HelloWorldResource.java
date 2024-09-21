@@ -1,4 +1,4 @@
-package com.rest.api.learn_spring_rest.helloworld;
+package com.rest.api.learn_spring_rest.questionSurvey.helloworld;
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

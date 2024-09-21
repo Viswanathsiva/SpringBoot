@@ -1,4 +1,4 @@
-package com.rest.api.learn_spring_rest.helloworld;
+package com.rest.api.learn_spring_rest.questionSurvey.helloworld;
 
 public class HelloWorldBean {
     public HelloWorldBean(String msg) {

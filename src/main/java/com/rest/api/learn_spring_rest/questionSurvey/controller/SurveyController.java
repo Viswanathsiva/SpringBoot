@@ -20,6 +20,8 @@ public class SurveyController {
         it will map the respective right controller(if there is many controller)
     -   Dispatcher servlet is configured by DispatcherAutoConfiguration
     -   Auto configuration is the main feature of Spring boot
+    -   JacksonHttpMessageConverterConfiguration is responsible for sending APIs response as JSON format
+    -   ErrorMvcAutoConfiguration is responsible for configuring error
 */
 
     private final SurveyService surveyService;
